@@ -1,0 +1,66 @@
+{
+    "modules": [
+        {
+            "id": 0,
+            "name": "Какой-то модуль",
+            "cards": [
+                {
+                    "id": 0,
+                    "term": "admit",
+                    "definition": "допустить"
+                },
+                {
+                    "id": 1,
+                    "term": "apparently",
+                    "definition": "очевидно"
+                },
+                {
+                    "id": 2,
+                    "term": "approach",
+                    "definition": "подход (метод)"
+                },
+                {
+                    "id": 3,
+                    "term": "barely",
+                    "definition": "едва, еле-еле"
+                },
+                {
+                    "id": 4,
+                    "term": "a",
+                    "definition": "a"
+                },
+                {
+                    "id": 5,
+                    "term": "b",
+                    "definition": "b"
+                },
+                {
+                    "id": 6,
+                    "term": "c",
+                    "definition": "c"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Второй",
+            "cards": []
+        },
+        {
+            "id": 2,
+            "name": "New module",
+            "cards": []
+        },
+        {
+            "id": 3,
+            "name": "New module",
+            "cards": [
+                {
+                    "id": 0,
+                    "term": "",
+                    "definition": ""
+                }
+            ]
+        }
+    ]
+}
