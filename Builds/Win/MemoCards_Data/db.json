@@ -1,0 +1,25 @@
+{
+    "modules": [
+        {
+            "id": 0,
+            "name": "New module",
+            "cards": [
+                {
+                    "id": 0,
+                    "term": "1",
+                    "definition": "1"
+                },
+                {
+                    "id": 1,
+                    "term": "2",
+                    "definition": "2"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "New module",
+            "cards": []
+        }
+    ]
+}
